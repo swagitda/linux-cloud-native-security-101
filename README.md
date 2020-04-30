@@ -23,9 +23,9 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 * The Future of Kubernetes Attacks by Ian Coldwater & Brad Geesaman (video): https://www.youtube.com/watch?time_continue=2&v=CH7S5rE3j8w&feature=emb_logo
 * A Hacker's Guide to Kubernetes and the Cloud by Rory McCune (video): https://www.youtube.com/watch?v=dxKpCO2dAy8
 * Kubernetes Security - Best Practice Guide by Simon Pirschel: https://github.com/freach/kubernetes-security-best-practice
-* Kubernetes Threat Model by Kubernetes: https://github.com/kubernetes/community/blob/master/wg-security-audit/findings/Kubernetes%20Threat%20Model.pdf
-* Kubernetes Attack Tree: https://github.com/cncf/financial-user-group/tree/master/projects/k8s-threat-model
-* Shoring Up Kubernetes Security: https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1541608899.pdf
+* Kubernetes Threat Model from Kubernetes: https://github.com/kubernetes/community/blob/master/wg-security-audit/findings/Kubernetes%20Threat%20Model.pdf
+* Kubernetes Attack Tree from CNCF: https://github.com/cncf/financial-user-group/tree/master/projects/k8s-threat-model
+* Shoring Up Kubernetes Security by Ian Coldwater: https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1541608899.pdf
 
 ## Containers
 * What are containers and their benefits from Google Cloud: https://cloud.google.com/containers
