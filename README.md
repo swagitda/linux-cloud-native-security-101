@@ -4,7 +4,7 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 ## Linux
 * A few drawings about Linux by Julia Evans: https://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/
 * What Does “Everything Is a File” Mean in Linux? by Chris Hoffman: https://www.howtogeek.com/117939/htg-explains-what-everything-is-a-file-means-on-linux/
-* Choosing a Linux Distribution: https://linuxnewbieguide.org/overview-of-chapters/chapter-3-choosing-a-linux-distribution/
+* 101 on Linux Distributions: https://linuxnewbieguide.org/overview-of-chapters/chapter-3-choosing-a-linux-distribution/
 * What happens when you start a process on Linux? by Julia Evans: https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/
 * Linux comics zine by Julia Evans: https://jvns.ca/linux-comics-zine.pdf
 * Linux tracing systems & how they fit together by Julia Evans: https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
