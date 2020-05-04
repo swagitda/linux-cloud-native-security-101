@@ -3,9 +3,9 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 
 ## Linux
 * A few drawings about Linux by Julia Evans: https://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/
+* What Does “Everything Is a File” Mean in Linux? by Chris Hoffman: https://www.howtogeek.com/117939/htg-explains-what-everything-is-a-file-means-on-linux/
+* Choosing a Linux Distribution: https://linuxnewbieguide.org/overview-of-chapters/chapter-3-choosing-a-linux-distribution/
 * What happens when you start a process on Linux? by Julia Evans: https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/
-* How do groups work on Linux? by Julia Evans: https://jvns.ca/blog/2017/11/20/groups/
-* Swapping, memory limits, and cgroups by Julia Evans: https://jvns.ca/blog/2017/02/17/mystery-swap/
 * Linux comics zine by Julia Evans: https://jvns.ca/linux-comics-zine.pdf
 * Linux tracing systems & how they fit together by Julia Evans: https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
 * Linux Performance resources from Brendan Gregg: http://brendangregg.com/linuxperf.html
@@ -14,6 +14,8 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 * Millions of Binaries Later (on Linux hardening schemes) by Theofilos Petsios: https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/
 * Different Approaches to Linux Host Monitoring by Kelly Shortridge: https://capsule8.com/blog/different-approaches-to-linux-monitoring/
 * Guide to Linux Privilege Escalation by Rashid Feroze: https://payatu.com/guide-linux-privilege-escalation
+* How do groups work on Linux? by Julia Evans: https://jvns.ca/blog/2017/11/20/groups/
+* Swapping, memory limits, and cgroups by Julia Evans: https://jvns.ca/blog/2017/02/17/mystery-swap/
 
 ## Kubernetes
 * Reasons Kubernetes is cool by Julia Evans: https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/
