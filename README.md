@@ -47,3 +47,6 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 * Runtimes and the Curse of the Privileged Container by Christian Brauner: https://brauner.github.io/2019/02/12/privileged-containers.html
 * Containers, Security, and Echo Chambers by Jess Frazelle: https://blog.jessfraz.com/post/containers-security-and-echo-chambers/
 
+## Other Cloud-native Topics
+* The Complete AWS Lambda Handbook for Beginners (Part 1) by Taavi Rehemägi: https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/
+
