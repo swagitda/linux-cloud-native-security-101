@@ -6,6 +6,7 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 * What Does “Everything Is a File” Mean in Linux? by Chris Hoffman: https://www.howtogeek.com/117939/htg-explains-what-everything-is-a-file-means-on-linux/
 * 101 on Linux Distributions: https://linuxnewbieguide.org/overview-of-chapters/chapter-3-choosing-a-linux-distribution/
 * What happens when you start a process on Linux? by Julia Evans: https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/
+* A Linux sysadmin's introduction to cgroups by Steve Owens: https://www.redhat.com/sysadmin/cgroups-part-one 
 * Linux comics zine by Julia Evans: https://jvns.ca/linux-comics-zine.pdf
 * Linux tracing systems & how they fit together by Julia Evans: https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
 * Linux Performance resources from Brendan Gregg: http://brendangregg.com/linuxperf.html
@@ -32,7 +33,6 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 ## Containers
 * What are containers and their benefits from Google Cloud: https://cloud.google.com/containers
 * What even is a container: namespaces and cgroups by Julia Evans: https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
-* A Linux sysadmin's introduction to cgroups by Steve Owens: https://www.redhat.com/sysadmin/cgroups-part-one 
 * The Container Operator's Manual by Alice Goldfuss (video): https://www.youtube.com/watch?v=zGw_xKF47T0
 * How Containers Work by Julia Evans (paywall): https://wizardzines.com/zines/containers/
 * How containers work: overlayfs by Julia Evans: https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/
