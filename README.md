@@ -49,5 +49,6 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 * Containers, Security, and Echo Chambers by Jess Frazelle: https://blog.jessfraz.com/post/containers-security-and-echo-chambers/
 
 ## Other Cloud-native Topics
+* Introduction to Google Cloud Functions by Adrian Ancona Novelo: https://ncona.com/2020/11/introduction-to-google-cloud-functions/ 
 * The Complete AWS Lambda Handbook for Beginners (Part 1) by Taavi Rehemägi: https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/
 
