@@ -32,6 +32,7 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 ## Containers
 * What are containers and their benefits from Google Cloud: https://cloud.google.com/containers
 * What even is a container: namespaces and cgroups by Julia Evans: https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
+* A Linux sysadmin's introduction to cgroups by Steve Owens: https://www.redhat.com/sysadmin/cgroups-part-one 
 * The Container Operator's Manual by Alice Goldfuss (video): https://www.youtube.com/watch?v=zGw_xKF47T0
 * How Containers Work by Julia Evans (paywall): https://wizardzines.com/zines/containers/
 * How containers work: overlayfs by Julia Evans: https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/
