@@ -47,6 +47,7 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 * An Exercise in Practical Container Escapology by Brandon Edwards & Nick Freeman: https://capsule8.com/blog/practical-container-escape-exercise/
 * Runtimes and the Curse of the Privileged Container by Christian Brauner: https://brauner.github.io/2019/02/12/privileged-containers.html
 * Containers, Security, and Echo Chambers by Jess Frazelle: https://blog.jessfraz.com/post/containers-security-and-echo-chambers/
+* Evolving Container Security With Linux User Namespaces from Netflix: https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082
 
 ## Other Cloud-native Topics
 * Introduction to Google Cloud Functions by Adrian Ancona Novelo: https://ncona.com/2020/11/introduction-to-google-cloud-functions/ 
