@@ -29,6 +29,7 @@ I've collected some resources to help people learn the basics about Linux, Kuber
 * Kubernetes Threat Model from Kubernetes: https://github.com/kubernetes/community/blob/master/wg-security-audit/findings/Kubernetes%20Threat%20Model.pdf
 * Kubernetes Attack Tree from CNCF: https://github.com/cncf/financial-user-group/tree/master/projects/k8s-threat-model
 * Shoring Up Kubernetes Security by Ian Coldwater: https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1541608899.pdf
+* Hacking into Kubernetes Security for Beginners by Ellen Körbes & Tabitha Sable https://www.youtube.com/watch?v=mLsCm9GVIQg
 
 ## Containers
 * What are containers and their benefits from Google Cloud: https://cloud.google.com/containers
